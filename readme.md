@@ -26,16 +26,22 @@ option with my version )
 
         g.	npm install browser-sync gulp --save-dev
 
-        h.  npm install --save-dev gulp-autoprefixer
+        h.  	npm install --save-dev gulp-autoprefixer
 
-        i.  npm install jekyll
+        i.  	npm install jekyll
 
-        j.  npm install gulp-jade
+        j.  	npm install gulp-jade
 
-        k.  gulp jade
+        k.  	gulp jade
 
 
 
-        After this you can use 'npm install' to check and install any other remaining dependency for your project.
+        After this you can use 'npm install' to check and install any other
+         remaining dependency for your project.
 
-        Finally on bash project directory use 'gulp --watch' this will open browser nodejs server at localhost:3000 deploying pages from _site directory generated in your project folder and when you make changes in your sass and jade file's they will be reflected in your server site on save gulp server will also refresh your browser Hope this helps thank in advance for using my setup!
+        Finally on bash project directory use 'gulp --watch' this will open 
+        browser nodejs server at localhost:3000 deploying pages from _site 
+        directory generated in your project folder and when you make changes in 
+        your sass and jade file's they will be reflected in your server site on 
+        save gulp server will also refresh your browser Hope this helps thank 
+        in advance for using my setup!
